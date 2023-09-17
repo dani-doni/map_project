@@ -60,7 +60,7 @@ def fullscreen():
 
     # store the URL in url as 
     # parameter for urlopen
-    url = "https://raw.githubusercontent.com/dani-doni/immobiliare/main/gottolengo_compravendite.json"
+    url = "https://raw.githubusercontent.com/dani-doni/map_project/main/gottolengo_compravendite.json"
   
     # store the response of URL
     response = urlopen(url)
